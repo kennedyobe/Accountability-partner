@@ -1,0 +1,36 @@
+[
+    {
+        "Goal": "learn python",
+        "tasks": [
+            {
+                "task": "read the pdf",
+                "duration": "3",
+                "time_to_complete": "04/10/2026",
+                "staus": "pending"
+            },
+            {
+                "task": "build an app",
+                "duration": "2",
+                "time_to_complete": "03/01/2027",
+                "staus": "pending"
+            }
+        ]
+    },
+    {
+        "Goal": "learn fx",
+        "tasks": [
+            {
+                "task": "study",
+                "duration": "4",
+                "time_to_complete": "01012027",
+                "staus": "pending"
+            },
+            {
+                "task": "execute",
+                "duration": "2",
+                "time_to_complete": "01012027",
+                "staus": "pending"
+            }
+        ]
+    }
+]

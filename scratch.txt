@@ -1,0 +1,9 @@
+what will i buld now?
+An accountability app/system
+goal: keep you accountable for your daily, weekly, monthly, yearly goal 
+you will need to list your goals
+is it a general goal?
+frequency of this goal?
+abi your daily school routine 
+Goal trays: General goal, and how you intend to do it ( Effort towards, time for effort, accomplished or not?)
+Let's make a list that stores goal trays
