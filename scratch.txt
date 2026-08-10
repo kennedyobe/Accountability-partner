@@ -7,3 +7,21 @@ frequency of this goal?
 abi your daily school routine 
 Goal trays: General goal, and how you intend to do it ( Effort towards, time for effort, accomplished or not?)
 Let's make a list that stores goal trays
+goal tray components; goal, and tasks(has name, frequency, status, end date)
+
+
+
+an edit on goal trays would be nice
+newpage, task page for task records and analysis 
+what will this even have?
+task points for each task done. 
+eg complete task for the day: + 1 points
+fail to complete: - 1 points
+a chart to show your mission progress
+status updated of the task
+reminders for tasks (like notifications)
+
+
+
+
+ 

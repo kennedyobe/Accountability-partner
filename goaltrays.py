@@ -40,6 +40,23 @@ def goallist():
         return
     print("Your goals:")
     for num, value in enumerate(goals, start=1):
-        
+        a = f"{num}. {value['Goal']}"
         print(f"{num}. {value['Goal']}")
+        
+    return a
+# track your task
+def goalprogress():
+    goallist()
+    goal = int(input('Which goal do you want to track? Enter the number: '))
+    with open(filename, 'r') as file:
+        goals = json.load(file)
+    value = goals[goal - 1]
+    print (f"Here's a run down on '{value['Goal']}': ")
+    for task in value['tasks']:
+        print(task['task'])
+    
+             
+
+     
+
     

@@ -32,5 +32,22 @@
                 "staus": "pending"
             }
         ]
+    },
+    {
+        "Goal": "Major 100k",
+        "tasks": [
+            {
+                "task": "Monetizing python and building projects",
+                "duration": "247",
+                "time_to_complete": "31129999",
+                "staus": "pending"
+            },
+            {
+                "task": "Profitizng forex and realigning the revenue to other investments ",
+                "duration": "247",
+                "time_to_complete": "31129999",
+                "staus": "pending"
+            }
+        ]
     }
 ]
