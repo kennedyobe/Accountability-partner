@@ -10,13 +10,15 @@ def creategoaltray():
     tasknumber  = input('how many tasks will this goal need to be attained? ')
     for i in range (int(tasknumber)):
         task = input("Task name: ")
+        taskpoints = 0
         duration = input("Task duration in hours: ")
         completion_time = input("date to complete: ")
         tasks.append({
         "task": task,
         "duration": duration,
         "time_to_complete": completion_time,
-        'staus': 'pending'
+        'staus': 'pending',
+        'taskpoints': taskpoints
         })
     newgoal = {
         'Goal': goal,
